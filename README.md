@@ -65,10 +65,11 @@ Main login / signup page
 
 **Francis:**
 
-- Transferred the wireframe to Photoshop and created mock-ups.
-- Created the design for the entire app.
-- Created the landing page with the call-to-action blurb.
-- Integrated the routes for the app.
+- designed wireframes in Photoshop and created user flows & mock-up interactions.
+- Created the visual design and UI for the entire app.
+- Implemented routes for the Rails app.
+- Integrated server-side business logic for the app.
+
 
 
 ## **Features:**
